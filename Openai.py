@@ -10,6 +10,7 @@ urls = [
     "https://www.jovemprogramador.com.br/parceiros.php",
     "https://www.jovemprogramador.com.br/duvidas.php",
     "https://www.jovemprogramador.com.br/queroserprofessor/"
+    "https://www.jovemprogramador.com.br/hackathon/"
 ]
 all_text = ""
 for url in urls:
